@@ -9,7 +9,7 @@ In Foundry, click an empty slot on your hotbar at the bottom of the screen to br
 ![New Macro](step1.png)
 
 ### Paste the Code
-Change the name if you'd like, and paste the code from the 'script.js' file in here (1) and click 'Save Macro' (2)
+Change the name if you'd like, **make sure you change the type from 'chat' to 'script'** and paste the code from the 'script.js' file in here (1) and click 'Save Macro' (2)
 
 ![Paste Code](step2.png)
 
